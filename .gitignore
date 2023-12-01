@@ -2,6 +2,8 @@
 *.txt
 *.csv
 *.ods
+*.pdf
+*.pickle
 extract83WS
 climRelevance61
 foo
