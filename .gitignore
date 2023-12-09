@@ -4,9 +4,11 @@
 *.ods
 *.pdf
 *.pickle
+*.log
 extract83WS
 climRelevance61
 foo
 bar
 foobar
 .ipynb_checkpoints/
+DWD_evaluation_files/
