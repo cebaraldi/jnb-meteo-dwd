@@ -5,6 +5,7 @@
 *.pdf
 *.pickle
 *.log
+*~
 extract83WS
 climRelevance61
 foo
